@@ -1,0 +1,20 @@
+---
+layout: post
+title: Python графические библиотеки и работа с графикой 
+---
+В этот пост будут добавлятся графические библиотеки и что от них можно получить и как пользоватся 
+![_config.yml]({{ site.baseurl }}/images/config.png)
+
+1. tkinter
+2. PyQt
+3. wxPython
+4. Python Imaging Library или PIL 
+  http://www.pythonware.com/library/pil/handbook/index.html  
+  http://www.pythonware.com/products/pil/
+  http://webonrails.ru/post/72992172277765021/
+5. matplotlib и учебник на русском  "Научная графика в Python". https://github.com/whitehorn/Scientific_graphics_in_python
+6. ImageMagick PythonMagick
+  https://wiki.python.org/moin/ImageMagick
+7. PyGame
+8. PyZenity 
+9. 
